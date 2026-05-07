@@ -2,7 +2,7 @@
 
 ### 🚀 Aspiring Embedded Systems Engineer | IoT & UI Enthusiast
 
-I specialize in the intersection of hardware and software, focusing on building efficient, automated systems. I'm currently deep-diving into microprocessor architecture and low-level programming while exploring the world of calisthenics and minimalist design.
+I specialize in the intersection of hardware and software, focusing on building efficient, automated systems. I'm currently deep-diving into microprocessor architecture and low-level programming while exploring the world of callisthenics and minimalist design.
 
 ---
 
