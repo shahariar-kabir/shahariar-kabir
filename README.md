@@ -1,50 +1,133 @@
-# 👋 Hi there, I'm Shahariar Kabir
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Kabir
 
-### 🚀 Aspiring Embedded Systems Engineer | IoT & UI Enthusiast
+<div align="center">
 
-I specialize in the intersection of hardware and software, focusing on building efficient, automated systems. I'm currently deep-diving into microprocessor architecture and low-level programming while exploring the world of callisthenics and minimalist design.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=CSE+Student+%7C+AI+Enthusiast;Tech+Explorer+from+Bangladesh;Logic+Driven+Learner;Building+Skills+One+Project+at+a+Time" alt="Typing SVG" />
 
----
-
-### 🛠️ Technical Toolkit
-
-- **Microcontrollers:** Arduino, ESP32, NodeMCU, 8086 Microprocessor
-- **Languages:** C, C++, Python, Assembly (x86)
-- **Specializations:** IoT Architecture, Smart Automation, Embedded Systems
-- **Design:** UI/UX Visualization, Tech Stack Mapping, Trust-focused Design
+</div>
 
 ---
 
-### 🏗️ Featured Projects
+## 🌌 About Me
 
-*   **Smart Kitchen System:** A full-scale ventilation and safety environment using NodeMCU.
-*   **Automatic Climate Control:** Sensor-driven room cooling logic for optimized energy use.
-*   **Assembly Operations:** Low-level memory manipulation and arithmetic logic on the 8086.
-
----
-
-### 📊 My GitHub Journey
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-### ⚡ Random Facts
-- 🤸 **Active Life:** When I'm not coding, I'm training home-based calisthenics.
-- 🎨 **Design Philosophy:** I believe technical stacks should be as visually clear as they are functional.
-- 🔭 **Current Goal:** Mastering high-performance embedded real-time systems.
+```yaml
+Name: Kabir
+Location: Bangladesh
+Field: Computer Science & Engineering
+University: Bangladesh Army University of Science and Technology
+Focus Areas:
+  - Artificial Intelligence
+  - Software Development
+  - Problem Solving
+  - Technology Research
+Mindset:
+  - Logical Thinker
+  - Optimistic
+  - Curious Learner
+  - Growth Focused
+```
 
 ---
 
-### 🤝 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-252422?style=for-the-badge&logo=polywork&logoColor=white)](https://your-portfolio-link.com)
+## ⚡ Tech Stack
+
+<div align="center">
+
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,html,css" />
+
+### 🛠️ Tools & Technologies
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,mysql" />
+
+### 📚 Currently Exploring
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+
+</div>
 
 ---
 
-> "Logic will get you from A to B. Imagination will take you everywhere."
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=15" />
+
+</div>
+
+---
+
+## 🧠 Current Goals
+
+* 🚀 Strengthening programming fundamentals
+* 🤖 Learning more about AI and Machine Learning
+* 📘 Improving problem-solving skills
+* 🛠️ Building meaningful projects
+* 🌱 Maintaining consistency and discipline
+
+---
+
+## 📌 Featured Projects
+
+```txt
+📦 Smart AI Projects
+📦 Problem Solving Repository
+📦 University Coursework
+📦 Experimental Tech Builds
+```
+
+> Replace this section with actual repositories once projects are uploaded.
+
+---
+
+## 🌍 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ "Keep Learning. Keep Building. Keep Growing." ✨
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
+
+</div>
