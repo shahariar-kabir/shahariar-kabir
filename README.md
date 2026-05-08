@@ -16,10 +16,12 @@
 <div align="center">
 
 ```bash
+
 > Student Developer
 > AI Enthusiast
 > Exploring Technology & Innovation
 > Building Skills One Project at a Time
+
 ```
 
 </div>
