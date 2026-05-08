@@ -15,8 +15,7 @@
 
 <div align="center">
   
-
-  ```go
+  ```
 
 > Student Developer
 > AI Enthusiast
