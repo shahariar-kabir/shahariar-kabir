@@ -14,8 +14,9 @@
 ---
 
 <div align="center">
+  
 
-```bash
+  ```bash
 
 > Student Developer
 > AI Enthusiast
@@ -23,7 +24,6 @@
 > Building Skills One Project at a Time
 
 ```
-
 </div>
 
 ---
