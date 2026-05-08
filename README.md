@@ -15,7 +15,7 @@
 
 <div align="center">
   
-  ```
+```bash
 
 > Student Developer
 > AI Enthusiast
