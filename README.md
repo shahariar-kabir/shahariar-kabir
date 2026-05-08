@@ -1,10 +1,36 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Kabir
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=CSE+Student+%7C+AI+Enthusiast;Tech+Explorer+from+Bangladesh;Logic+Driven+Learner;Building+Skills+One+Project+at+a+Time" alt="Typing SVG" />
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Shahariar Kabir
 
 </div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=CSE+Student+%7C+AI+Enthusiast;Tech+Explorer+from+Bangladesh;Logic+Driven+Learner;Building+Projects+and+Improving+Every+Day" alt="Typing SVG" />
+
+</div>
+
+---
+
+<div align="center">
+
+```bash
+> Student Developer
+> AI Enthusiast
+> Exploring Technology & Innovation
+> Building Skills One Project at a Time
+```
+
+</div>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20To-Collaboration-success?style=for-the-badge" />
+</p>
 
 ---
 
@@ -12,19 +38,25 @@
 
 ```yaml
 Name: Kabir
+Username: shahariar-kabir
 Location: Bangladesh
-Field: Computer Science & Engineering
-University: Bangladesh Army University of Science and Technology
-Focus Areas:
+
+Education:
+  University: Bangladesh Army University of Science and Technology
+  Field: Computer Science & Engineering
+
+Interests:
   - Artificial Intelligence
   - Software Development
   - Problem Solving
   - Technology Research
+  - App Development
+
 Mindset:
   - Logical Thinker
-  - Optimistic
   - Curious Learner
   - Growth Focused
+  - Discipline & Consistency
 ```
 
 ---
@@ -35,15 +67,15 @@ Mindset:
 
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,html,css" />
+<img src="https://skillicons.dev/icons?i=js,python,java,html,css,cpp,c" />
 
 ### 🛠️ Tools & Technologies
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,mysql" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,mysql,postgresql" />
 
 ### 📚 Currently Exploring
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+<img src="https://skillicons.dev/icons?i=flutter,tensorflow,pytorch" />
 
 </div>
 
@@ -53,9 +85,9 @@ Mindset:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shahariar-kabir&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahariar-kabir&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
 
 </div>
 
@@ -65,7 +97,7 @@ Mindset:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=15" />
+<img src="https://streak-stats.demolab.com?user=shahariar-kabir&theme=tokyonight&hide_border=true&border_radius=15" />
 
 </div>
 
@@ -73,32 +105,33 @@ Mindset:
 
 ## 🧠 Current Goals
 
-* 🚀 Strengthening programming fundamentals
-* 🤖 Learning more about AI and Machine Learning
-* 📘 Improving problem-solving skills
-* 🛠️ Building meaningful projects
-* 🌱 Maintaining consistency and discipline
+- 🚀 Strengthening programming fundamentals
+- 🤖 Learning AI and Machine Learning
+- 📘 Improving problem-solving skills
+- 🛠️ Building meaningful projects
+- 🌱 Maintaining consistency and discipline
 
 ---
-
 ## 📌 Featured Projects
 
-```txt
-📦 Smart AI Projects
-📦 Problem Solving Repository
-📦 University Coursework
-📦 Experimental Tech Builds
-```
+<p align="center">
 
-> Replace this section with actual repositories once projects are uploaded.
+<a href="https://github.com/shahariar-kabir/EcoSphere">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shahariar-kabir&repo=EcoSphere&theme=github_dark&hide_border=true" />
+</a>
+
+<a href="https://github.com/shahariar-kabir/ProMove-Rental">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shahariar-kabir&repo=ProMove-Rental&theme=github_dark&hide_border=true" />
+</a>
+
+</p>
 
 ---
-
 ## 🌍 Connect With Me
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/shahariar-kabir">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -106,7 +139,7 @@ Mindset:
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:shahariarkabir200206@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
@@ -118,7 +151,17 @@ Mindset:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/shahariar-kabir/shahariar-kabir/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shahariar-kabir&theme=tokyo-night&hide_border=true" />
 
 </div>
 
@@ -128,6 +171,7 @@ Mindset:
 
 ### ✨ "Keep Learning. Keep Building. Keep Growing." ✨
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=shahariar-kabir&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
 
 </div>
+````
