@@ -16,7 +16,7 @@
 <div align="center">
   
 
-  ```bash
+  ```go
 
 > Student Developer
 > AI Enthusiast
