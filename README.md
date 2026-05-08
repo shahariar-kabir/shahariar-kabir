@@ -67,15 +67,15 @@ Mindset:
 
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=js,python,java,html,css,cpp,c" />
+<img src="https://skillicons.dev/icons?i=js,python,java,html,css,tailwind,cpp,c" />
 
 ### 🛠️ Tools & Technologies
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,mysql,postgresql" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,mysql" />
 
 ### 📚 Currently Exploring
 
-<img src="https://skillicons.dev/icons?i=flutter,tensorflow,pytorch" />
+<img src="https://skillicons.dev/icons?i=flutter,postgresql,tensorflow,pytorch" />
 
 </div>
 
@@ -83,13 +83,17 @@ Mindset:
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shahariar-kabir&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
+<img src="https://github-readme-stats.vercel.app/api?username=shahariar-kabir&show_icons=true&theme=github_dark&hide_border=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahariar-kabir&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
+</p>
 
-</div>
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahariar-kabir&layout=compact&theme=github_dark&hide_border=true" />
+
+</p>
 
 ---
 
@@ -174,5 +178,3 @@ Mindset:
 <img src="https://komarev.com/ghpvc/?username=shahariar-kabir&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
 
 </div>
-
-````
