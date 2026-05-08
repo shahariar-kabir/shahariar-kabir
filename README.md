@@ -14,7 +14,7 @@
 ---
 
 <div align="center">
-  
+
 ```bash
 
 > Student Developer
@@ -23,6 +23,7 @@
 > Building Skills One Project at a Time
 
 ```
+
 </div>
 
 ---
