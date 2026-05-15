@@ -39,7 +39,7 @@
 ## 🌌 About Me
 
 ```yaml
-Name: Kabir
+Name: Shahariar Kabir Shihab
 Username: shahariar-kabir
 Location: Bangladesh
 
