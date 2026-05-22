@@ -117,14 +117,12 @@ Mindset:
 <p align="center">
 
 <a href="https://github.com/shahariar-kabir/EcoSphere">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shahariar-kabir&repo=EcoSphere&theme=github_dark&hide_border=true" />
+  <img height="120em" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=shahariar-kabir&repo=EcoSphere&theme=tokyonight&hide_border=true" />
 </a>
 
 <a href="https://github.com/shahariar-kabir/ProMove-Rental">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shahariar-kabir&repo=ProMove-Rental&theme=github_dark&hide_border=true" />
+  <img height="120em" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=shahariar-kabir&repo=ProMove-Rental&theme=tokyonight&hide_border=true" />
 </a>
-
-</p>
 
 ---
 ## 🌍 Connect With Me
